@@ -52,9 +52,9 @@
 
 **Ответ:**
 
-<img src = "zab2-t23-s1.png" width = 100%>
+<img src = "screens/zab2-t23-s1.png" width = 100%>
 
-<img src = "zab2-t23-s2.png" width = 100%>
+<img src = "screens/zab2-t23-s2.png" width = 100%>
 
 
 
@@ -74,7 +74,7 @@
 
 **Ответ:**
 
-<img src = "zab2-t4-s1.png" width = 100%>
+<img src = "screens/zab2-t4-s1.png" width = 100%>
 
 
 # Задание 5* со звёздочкой
@@ -92,7 +92,7 @@
 
 **Ответ:**
 
-<img src = "zab2-t5-s1.png" width = 100%>
+<img src = "screens/zab2-t5-s1.png" width = 100%>
 
 # Задание 8* со звёздочкой
 
@@ -103,5 +103,5 @@
 
 **Ответ:**
 
-<img src = "zab2-t8-s1.png" width = 100%>
+<img src = "screens/zab2-t8-s1.png" width = 100%>
 
